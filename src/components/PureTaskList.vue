@@ -26,13 +26,12 @@
     </template>
   </div>
 </template>
-
 <script>
 import Task from './Task.vue'
 import { reactive, computed } from 'vue'
 
 export default {
-  name: 'TaskList',
+  name: 'PureTaskList',
   components: { Task },
   props: {
     tasks: { type: Array, required: true, default: () => [] },
