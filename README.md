@@ -95,3 +95,7 @@ If you encounter an issue with the template, we encourage you to open an issue i
 1. Read our introductory tutorial at [Learn Storybook](https://storybook.js.org/tutorials/intro-to-storybook/vue/en/get-started/).
 2. Learn how to transform your component libraries into design systems in our [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/) tutorial.
 3. See our official documentation at [Storybook](https://storybook.js.org/).
+
+
+## Chromatic
+https://www.chromatic.com/build?appId=6561a3327d1a989afacbdb6f&number=2
