@@ -47,3 +47,12 @@ export const Archived = {
     },
   },
 };
+
+export const LongText = {
+  args: {
+    task: {
+      ...Default.args.task,
+      title:"べンダhクぺるNさソヰヷキゴパん6ぃきヹサキすミセHぢヲLゑテチぁぞりWでべPがpsAはェヘhド2fホケ1ザづワuNイOぬェWきVqdヱウザパいロュヮfI0ァゕSnてオhゲjセJ7ラu4チポぺサナニS"
+    },
+  },
+};
