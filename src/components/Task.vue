@@ -7,6 +7,7 @@
         disabled
         :name="'checked' + task.id"
         :id="'archiveTask-' + task.id"
+        style="background-color: red"
       />
       <span class="checkbox-custom" @click="archiveTask" />
     </label>
